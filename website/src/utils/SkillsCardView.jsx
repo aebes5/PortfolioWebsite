@@ -34,7 +34,7 @@ const SkillsCardView = () => {
         />
         <GradientCard
           title="Tools/Technologies"
-          description={["Git", "Linux/Unix", "Intel MKL", "SQL", "MySQL"]}
+          description={["Git", "Linux/Unix", "Intel MKL", "SQL"]}
           colors={["from-green-500", "via-teal-500", "to-blue-500"]}
 
         />
@@ -49,12 +49,7 @@ const SkillsCardView = () => {
           colors={["from-green-500", "via-teal-500", "to-blue-500"]}
 
         />
-        <GradientCard
-          title="Frontend"
-          description={["HTML", "CSS", "Javascript", "React", "Tailwind"]}
-          colors={["from-green-500", "via-teal-500", "to-blue-500"]}
 
-        />
               </div>
       </div>
     </div>
