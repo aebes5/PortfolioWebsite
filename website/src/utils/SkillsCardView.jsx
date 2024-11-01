@@ -44,7 +44,7 @@ const SkillsCardView = () => {
             "Calculus",
             "Linear Algebra",
             "Differential Equations",
-            "Probability and Statistics",
+            "Probability and Statistics"
           ]}
           colors={["from-green-500", "via-teal-500", "to-blue-500"]}
 
